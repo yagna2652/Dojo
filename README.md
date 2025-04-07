@@ -1,4 +1,4 @@
-# Gmail Draft Generator with OpenAI
+# Gmail Draft Generator using Google Sheets
 
 This tool automates the process of creating personalized email drafts in Gmail using data from Google Sheets and OpenAI's language models.
 
@@ -17,7 +17,7 @@ This tool automates the process of creating personalized email drafts in Gmail u
 
 - Python 3.7+
 - Google account with access to Google Sheets and Gmail
-- OpenAI API key
+- Hugging Face API
 
 ### Installation
 

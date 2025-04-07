@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sensitive information
+credentials.json
+token.json
+.env
+
+# API usage logs
+api_usage.json
+
+# OS specific files
+.DS_Store
